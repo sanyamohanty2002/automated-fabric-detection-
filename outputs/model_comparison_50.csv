@@ -1,0 +1,51 @@
+﻿image_name,true_label,roboflow_predicted_label,roboflow_confidence,roboflow_correct,pytorch_predicted_label,pytorch_confidence,pytorch_correct,models_agree
+DEFimage2__20260609111059_jpg.rf.56df723a253e84c737632719b5e61673.jpg,Defected,Defected,0.951539,True,Defected,0.999328,True,True
+DEFimage2__20260609111145_jpg.rf.9d653d35f54fd31cce132504373885f5.jpg,Defected,Defected,0.980336,True,Defected,0.999440,True,True
+DEFimage2__20260609111804_jpg.rf.a9d962ada22b765349b6f7c074ddb631.jpg,Defected,Defected,0.981895,True,Defected,0.999185,True,True
+DEFimage2__20260609111842_jpg.rf.79aa738cad93009532fe974b8b2f5ab4.jpg,Defected,Defected,0.981480,True,Defected,0.994294,True,True
+DEFimage2__20260609111926_jpg.rf.93ef2f22da1bb5ffa5841d4dd362a731.jpg,Defected,Defected,0.978318,True,Defected,0.999729,True,True
+DEFimage2__20260609112000_jpg.rf.3901defffdd1d38290b545b2da454076.jpg,Defected,Defected,0.997667,True,Defected,0.999876,True,True
+DEFimage2__20260609112157_jpg.rf.b7349a28d7682f17fc49fa1e899ffbfb.jpg,Defected,Defected,0.948638,True,Defected,0.998558,True,True
+DEFimage2__20260609112359_jpg.rf.1c93d25b9363a333f700a94990b13f83.jpg,Defected,Defected,0.994215,True,Defected,0.999682,True,True
+DEFimage2__20260609113000_jpg.rf.9fb87c2aebe4d271e14e9057e48445ae.jpg,Defected,Defected,0.992540,True,Defected,0.999731,True,True
+DEFimage2__20260609113048_jpg.rf.30afd5a74110007f0e5bd8a476eaa8b5.jpg,Defected,Defected,0.986387,True,Defected,0.997902,True,True
+Defected-1097-_jpg.rf.d06dd24020419ba69b7cdea9efcf9a76.jpg,Defected,Defected,0.930959,True,Defected,0.997076,True,True
+Defected-1176-_jpg.rf.3c6bdf51a03453d6a622cfd0c830fbd6.jpg,Defected,Defect free,0.919424,False,Defect free,0.930564,False,True
+Defected-1215-_jpg.rf.ae8f0c2b63b68af7170dca61d750f2cc.jpg,Defected,Defected,0.977718,True,Defected,0.997543,True,True
+Defected-1232-_jpg.rf.7d2dd5550bc653ade44b98acaa071ba6.jpg,Defected,Defect free,0.897619,False,Defect free,0.918366,False,True
+Defected-1263-_jpg.rf.847c01f4da37e25d76ead08c8085aa1d.jpg,Defected,Defect free,0.940244,False,Defect free,0.979123,False,True
+Defected-1289-_jpg.rf.15a402907b59f885ba9a801c41976efc.jpg,Defected,Defected,0.963404,True,Defected,0.999540,True,True
+Defected-1337-_jpg.rf.dda3e03c39763028aa4e4ffd62a6974f.jpg,Defected,Defected,0.997267,True,Defected,0.998102,True,True
+Defected-1519-_jpg.rf.8771861baa40105e6a544ee11203cd44.jpg,Defected,Defected,0.981761,True,Defected,0.999496,True,True
+Defected-1663-_jpg.rf.687a78818c7b5cc8f9b233c8304ec312.jpg,Defected,Defected,0.994673,True,Defected,0.999848,True,True
+Defected-1666-_jpg.rf.0c5b2e51b713f8ff6d05f73d8cf4e0aa.jpg,Defected,Defected,0.997872,True,Defected,0.999975,True,True
+Defected-1932-_jpg.rf.74ce9c7144fb7da93f37cff8e4854b7b.jpg,Defected,Defected,0.975779,True,Defected,0.998536,True,True
+Defected-2094-_jpg.rf.e1309878cf24c54e34408c1158898aa8.jpg,Defected,Defected,0.991793,True,Defected,0.999859,True,True
+Defected-2182-_jpg.rf.89ffa95f80e9f69091ebc27cc1d2d288.jpg,Defected,Defected,0.982382,True,Defected,0.999265,True,True
+Defected-2562-_jpg.rf.ce7e002a154a132519e77545e12c6796.jpg,Defected,Defected,0.989421,True,Defected,0.999739,True,True
+Defected-2615-_jpg.rf.1a90ec5ce2f18dbf14580e728d4ce97f.jpg,Defected,Defected,0.998595,True,Defected,0.999376,True,True
+Defected-2717-_jpg.rf.10e4c489973746c65b2374f3a8d8a562.jpg,Defected,Defected,0.967439,True,Defected,0.991224,True,True
+Defected-375-_jpg.rf.e0516e1291b49b0cd17b0a019a5247aa.jpg,Defected,Defected,0.802164,True,Defected,0.860864,True,True
+Defected-390-_jpg.rf.91276952991e1b78662567106c1385b9.jpg,Defected,Defected,0.994181,True,Defected,0.999901,True,True
+Defected-827-_jpg.rf.6c5dba55c0beb8f8e9bbf7a2840e7a22.jpg,Defected,Defected,0.999720,True,Defected,0.994503,True,True
+Defected-859-_jpg.rf.4880993eaa0908b60e7c8b85c131cac2.jpg,Defected,Defected,0.999193,True,Defected,0.966043,True,True
+Defected-957-_jpg.rf.8949733a59d8cf0e5a55dd6bdb24276e.jpg,Defected,Defected,0.811685,True,Defected,0.966728,True,True
+NDimage2__20260609114928_jpg.rf.91bb3872caf73a864e3b6155078a5cd3.jpg,Defected,Defected,0.999999,True,Defected,0.999987,True,True
+NDimage2__20260609115023_jpg.rf.467510a6af835f7487174271116bcc6b.jpg,Defected,Defected,0.999537,True,Defected,0.999979,True,True
+NDimage2__20260609115051_jpg.rf.44461752219d5ff5ad91ed27325e6a00.jpg,Defected,Defected,0.999991,True,Defected,0.999924,True,True
+NDimage2__20260609115401_jpg.rf.a4bf00f0b0e67255882ebb0834e13472.jpg,Defected,Defected,0.998482,True,Defected,0.999733,True,True
+NDimage2__20260609115405_jpg.rf.82fa529403592881b86d08a59d1a1a75.jpg,Defected,Defected,0.998314,True,Defected,0.999535,True,True
+NDimage2__20260609115427_jpg.rf.ac7b8f0273cf37113b033c83277e528e.jpg,Defected,Defected,0.994848,True,Defected,0.999671,True,True
+NDimage2__20260609115832_jpg.rf.2eea797aa93cc05a094c83486bc5d9b8.jpg,Defected,Defected,0.999949,True,Defected,0.999905,True,True
+NDimage2__20260609120330_jpg.rf.2b86fd1f36339e41efd4f3a27a70be3f.jpg,Defected,Defected,0.999997,True,Defected,0.999939,True,True
+NDimage2__20260609120500_jpg.rf.e992ce4d887e463aa4437481de64abaf.jpg,Defected,Defected,0.999599,True,Defected,0.999930,True,True
+NDimage2__20260609120506_jpg.rf.474848947b966271074918953ffb1cde.jpg,Defected,Defected,0.999942,True,Defected,0.999963,True,True
+NDimage2__20260609121952_jpg.rf.6ce782f5ceed922f797a522d0cb65caf.jpg,Defected,Defected,0.997885,True,Defected,0.999774,True,True
+NDimage2__20260609122015_jpg.rf.d3d400c8bac11dd03e42e1303c82e428.jpg,Defected,Defected,0.999813,True,Defected,0.999868,True,True
+NDimage2__20260609122245_jpg.rf.a2a72f1a4c9ce8faaabd176216f1b717.jpg,Defected,Defected,0.886420,True,Defected,0.998218,True,True
+defect-free-15-_jpg.rf.ee9b0d7992ad364bf8fee313ac1499e0.jpg,Defect free,Defected,0.998644,False,Defected,0.993210,False,True
+defect-free-197-_jpg.rf.c7878a7549d1ad44700e76fd2a396eee.jpg,Defect free,Defect free,0.919056,True,Defect free,0.717038,True,True
+defect-free-204-_jpg.rf.f7a33c2a4c4865b045023007719f7430.jpg,Defect free,Defect free,0.617718,True,Defect free,0.961010,True,True
+defect-free-229-_jpg.rf.430bb085c6c0ae75d5e5f493bab0c786.jpg,Defect free,Defected,0.985026,False,Defected,0.999318,False,True
+defect-free-344-_jpg.rf.e27a06d2dc700b8d840780b9a6ae654e.jpg,Defect free,Defect free,0.948078,True,Defect free,0.996203,True,True
+waste-2-_jpg.rf.85d5e69ac41d6b69b7165bf7586924a3.jpg,Waste,Waste,1.000000,True,Waste,0.999217,True,True

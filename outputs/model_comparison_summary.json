@@ -1,0 +1,109 @@
+{
+  "images_matched_and_compared": 50,
+  "roboflow_rows_not_matched": [],
+  "pytorch_rows_not_matched": [],
+  "roboflow": {
+    "correct": 45,
+    "accuracy": 0.9,
+    "macro_precision": 0.8178294573643411,
+    "macro_recall": 0.8439393939393939,
+    "macro_f1": 0.8293277603622431,
+    "classification_report": {
+      "defect free": {
+        "precision": 0.5,
+        "recall": 0.6,
+        "f1-score": 0.5454545454545454,
+        "support": 5.0
+      },
+      "defected": {
+        "precision": 0.9534883720930233,
+        "recall": 0.9318181818181818,
+        "f1-score": 0.9425287356321839,
+        "support": 44.0
+      },
+      "waste": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 1.0
+      },
+      "accuracy": 0.9,
+      "macro avg": {
+        "precision": 0.8178294573643411,
+        "recall": 0.8439393939393939,
+        "f1-score": 0.8293277603622431,
+        "support": 50.0
+      },
+      "weighted avg": {
+        "precision": 0.9090697674418605,
+        "recall": 0.9,
+        "f1-score": 0.9039707419017763,
+        "support": 50.0
+      }
+    }
+  },
+  "pytorch": {
+    "correct": 45,
+    "accuracy": 0.9,
+    "macro_precision": 0.8178294573643411,
+    "macro_recall": 0.8439393939393939,
+    "macro_f1": 0.8293277603622431,
+    "classification_report": {
+      "defect free": {
+        "precision": 0.5,
+        "recall": 0.6,
+        "f1-score": 0.5454545454545454,
+        "support": 5.0
+      },
+      "defected": {
+        "precision": 0.9534883720930233,
+        "recall": 0.9318181818181818,
+        "f1-score": 0.9425287356321839,
+        "support": 44.0
+      },
+      "waste": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 1.0
+      },
+      "accuracy": 0.9,
+      "macro avg": {
+        "precision": 0.8178294573643411,
+        "recall": 0.8439393939393939,
+        "f1-score": 0.8293277603622431,
+        "support": 50.0
+      },
+      "weighted avg": {
+        "precision": 0.9090697674418605,
+        "recall": 0.9,
+        "f1-score": 0.9039707419017763,
+        "support": 50.0
+      }
+    }
+  },
+  "paired_comparison": {
+    "both_correct": 45,
+    "both_wrong": 5,
+    "roboflow_only_correct": 0,
+    "pytorch_only_correct": 0,
+    "predicted_label_agreement_count": 50,
+    "predicted_label_agreement_rate": 1.0
+  },
+  "classes_in_test_subset": [
+    "Defect free",
+    "Defected",
+    "Waste"
+  ],
+  "misclassified_image_count_union": 5,
+  "latency_interpretation": "Roboflow mean client latency includes upload/network/API round-trip and remote processing (reported earlier as 2.45 s/image). PyTorch latency reported earlier is batched local forward-pass time only (50.73 ms/image), excluding file I/O/preprocessing/network. These are different measurement scopes and must be labelled as such in the report.",
+  "source_files": [
+    "outputs\\roboflow_comparison.csv",
+    "outputs\\torch_test50_predictions.csv"
+  ],
+  "output_files": [
+    "outputs\\model_comparison_50.csv",
+    "outputs\\misclassified_images.csv",
+    "outputs\\model_comparison_summary.json"
+  ]
+}

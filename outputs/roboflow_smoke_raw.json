@@ -1,0 +1,44 @@
+[
+  {
+    "image_name": "defect-free-15-_jpg.rf.ee9b0d7992ad364bf8fee313ac1499e0.jpg",
+    "true_label_from_folder": "Defect free",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "7ed91ac1-3175-438d-836b-e55bc3604519",
+          "time": 0.003393227234482765,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.0015211701393127441,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9986441731452942,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 5.960464477539062e-07,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  }
+]

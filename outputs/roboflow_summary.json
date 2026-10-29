@@ -1,0 +1,20 @@
+{
+  "workspace_name": "sanya-mohanty",
+  "workflow_id": "fabric-defect-detection-idm-2-vfabric-defect-detection-idm-2-1-resnet18-t1-logic",
+  "input_dir": "data\\test50",
+  "requested_images": 50,
+  "successful_predictions": 50,
+  "failed_predictions": 0,
+  "mean_client_latency_seconds": 2.4476039760000274,
+  "median_client_latency_seconds": 2.2465529500004777,
+  "min_client_latency_seconds": 1.9297927999996318,
+  "max_client_latency_seconds": 4.28398019999986,
+  "latency_note": "Client latency includes network/API round-trip time and is not pure model compute time.",
+  "failures": [],
+  "ground_truth_images": 50,
+  "accuracy_on_processed_foldered_images": 0.9,
+  "accuracy_note": "Computed from parent-folder names in data/test50; verify the folders contain correct ground-truth labels.",
+  "correct_predictions": 45,
+  "parser_note": "Labels extracted from predicted_classes and corresponding per-class confidence; numeric metadata such as 'time' is not a class label.",
+  "parse_errors": []
+}

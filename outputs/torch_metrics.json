@@ -1,0 +1,69 @@
+{
+  "model": "ResNet18 pretrained (fine-tuned)",
+  "device": "cpu",
+  "class_to_idx": {
+    "Defect free": 0,
+    "Defected": 1,
+    "Waste": 2
+  },
+  "test_images": 497,
+  "test_accuracy": 0.9637826961770624,
+  "test_macro_precision": 0.9376422472063931,
+  "test_macro_recall": 0.9167890821210255,
+  "test_macro_f1": 0.9266814486326682,
+  "test_forward_latency_ms_per_image_batch_averaged": 44.888738631797565,
+  "test_confusion_matrix_rows_true_columns_predicted": [
+    [
+      36,
+      11,
+      0
+    ],
+    [
+      7,
+      442,
+      0
+    ],
+    [
+      0,
+      0,
+      1
+    ]
+  ],
+  "classification_report": {
+    "Defect free": {
+      "precision": 0.8372093023255814,
+      "recall": 0.7659574468085106,
+      "f1-score": 0.8,
+      "support": 47.0
+    },
+    "Defected": {
+      "precision": 0.9757174392935982,
+      "recall": 0.9844097995545658,
+      "f1-score": 0.9800443458980045,
+      "support": 449.0
+    },
+    "Waste": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "accuracy": 0.9637826961770624,
+    "macro avg": {
+      "precision": 0.9376422472063931,
+      "recall": 0.9167890821210255,
+      "f1-score": 0.9266814486326682,
+      "support": 497.0
+    },
+    "weighted avg": {
+      "precision": 0.9626679425596134,
+      "recall": 0.9637826961770624,
+      "f1-score": 0.9630581716462858,
+      "support": 497.0
+    }
+  },
+  "checkpoint": "outputs\\resnet18_best.pth",
+  "test_predictions_csv": "outputs\\test_predictions.csv",
+  "latency_note": "Forward-pass timing averaged over test batches; excludes image decoding and network time.",
+  "training_note": "Training was interrupted after four complete epochs. This file evaluates the saved best validation checkpoint; it does not resume training or estimate the interrupted epoch time."
+}

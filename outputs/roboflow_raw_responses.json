@@ -1,0 +1,2102 @@
+[
+  {
+    "image_name": "defect-free-15-_jpg.rf.ee9b0d7992ad364bf8fee313ac1499e0.jpg",
+    "true_label_from_folder": "Defect free",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "a62b2c2d-8317-4b78-bce9-e244d6e771bc",
+          "time": 0.007735591381788254,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.0015211701393127441,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9986441731452942,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 5.960464477539062e-07,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "defect-free-197-_jpg.rf.c7878a7549d1ad44700e76fd2a396eee.jpg",
+    "true_label_from_folder": "Defect free",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "2cae9a2b-70dc-4e88-b020-77c12113930a",
+          "time": 0.003171827644109726,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.9190558791160583,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.08686220645904541,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 0.00014531612396240234,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defect free"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "defect-free-204-_jpg.rf.f7a33c2a4c4865b045023007719f7430.jpg",
+    "true_label_from_folder": "Defect free",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "c76636c1-4c7a-4d7f-87c7-a110843d9f38",
+          "time": 0.004186089150607586,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.6177177429199219,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.39027106761932373,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 0.00020927190780639648,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defect free"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "defect-free-229-_jpg.rf.430bb085c6c0ae75d5e5f493bab0c786.jpg",
+    "true_label_from_folder": "Defect free",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "46227a4a-1d6b-44a3-a9af-aaf55eaf2e64",
+          "time": 0.0033317403867840767,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.01618218421936035,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9850257039070129,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 8.463859558105469e-06,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "defect-free-344-_jpg.rf.e27a06d2dc700b8d840780b9a6ae654e.jpg",
+    "true_label_from_folder": "Defect free",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "ed6dd1ce-9d80-4783-b836-7fe0a27fe2e9",
+          "time": 0.005147331394255161,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.9480783939361572,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.05535322427749634,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 0.0001379251480102539,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defect free"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "Defected-1097-_jpg.rf.d06dd24020419ba69b7cdea9efcf9a76.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "c257be62-6e8b-409d-a343-3abf8330961c",
+          "time": 0.003405200317502022,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.07921826839447021,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9309589862823486,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 6.949901580810547e-05,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "Defected-1176-_jpg.rf.3c6bdf51a03453d6a622cfd0c830fbd6.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "32f4a708-d265-4c8a-a544-77f3ad885531",
+          "time": 0.0032580187544226646,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.9194237589836121,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.08356982469558716,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 0.00023359060287475586,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defect free"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "Defected-1215-_jpg.rf.ae8f0c2b63b68af7170dca61d750f2cc.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "428d4898-1915-4b65-b91a-5ad5faf70ab5",
+          "time": 0.011742368340492249,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.027246057987213135,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9777182936668396,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 2.4080276489257812e-05,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "Defected-1232-_jpg.rf.7d2dd5550bc653ade44b98acaa071ba6.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "a1c5c25b-188e-4df1-a680-2d81e870243c",
+          "time": 0.0034502502530813217,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.89761883020401,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.106955885887146,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 0.00022548437118530273,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defect free"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "Defected-1263-_jpg.rf.847c01f4da37e25d76ead08c8085aa1d.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "72e1eb74-c953-41b8-b8ce-37b639a21b41",
+          "time": 0.005380133166909218,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.9402442574501038,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.0638735294342041,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 0.0001131296157836914,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defect free"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "Defected-1289-_jpg.rf.15a402907b59f885ba9a801c41976efc.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "3f6496d2-7048-46ec-b635-4df4c388ae7e",
+          "time": 0.0033448785543441772,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.03543829917907715,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9634044170379639,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 0.0001628398895263672,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "Defected-1337-_jpg.rf.dda3e03c39763028aa4e4ffd62a6974f.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "22720527-f27c-4175-8345-32fdcf6a9306",
+          "time": 0.003464161418378353,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.0029435157775878906,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9972668886184692,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 3.933906555175781e-06,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "Defected-1519-_jpg.rf.8771861baa40105e6a544ee11203cd44.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "24dd6699-e383-4152-b62b-fe870d29d607",
+          "time": 0.004021896980702877,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.013953983783721924,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.981760561466217,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 0.0005494952201843262,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "Defected-1663-_jpg.rf.687a78818c7b5cc8f9b233c8304ec312.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "eafbfec7-f4e6-48ab-9866-ddad0a79f804",
+          "time": 0.004626333713531494,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.005387067794799805,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9946734309196472,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 2.0265579223632812e-06,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "Defected-1666-_jpg.rf.0c5b2e51b713f8ff6d05f73d8cf4e0aa.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "d1d2ddb1-2fca-4633-a758-9c0624c97ee8",
+          "time": 0.008098674938082695,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.0019229650497436523,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9978723526000977,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 1.3113021850585938e-06,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "Defected-1932-_jpg.rf.74ce9c7144fb7da93f37cff8e4854b7b.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "52627ea1-207d-44e3-8b54-da7388a7ce1b",
+          "time": 0.03105046506971121,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.02720421552658081,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9757786393165588,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 1.1324882507324219e-05,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "Defected-2094-_jpg.rf.e1309878cf24c54e34408c1158898aa8.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "17771cb5-e71a-4a29-bce9-87e4f92ddabe",
+          "time": 0.006460206583142281,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.009139418601989746,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9917933344841003,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 3.8743019104003906e-05,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "Defected-2182-_jpg.rf.89ffa95f80e9f69091ebc27cc1d2d288.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "63136331-7e5b-42ae-bebf-4f8674774985",
+          "time": 0.030815272592008114,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.02129507064819336,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9823823571205139,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 1.6927719116210938e-05,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "Defected-2562-_jpg.rf.ce7e002a154a132519e77545e12c6796.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "1d3b1a9b-3430-4eb3-ad95-6385e24706e2",
+          "time": 0.0031430767849087715,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.00796961784362793,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9894208908081055,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 6.830692291259766e-05,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "Defected-2615-_jpg.rf.1a90ec5ce2f18dbf14580e728d4ce97f.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "54cd2fa9-58f1-49e7-84d0-85700b1a7e25",
+          "time": 0.004194449633359909,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.001505732536315918,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9985947012901306,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 9.894371032714844e-06,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "Defected-2717-_jpg.rf.10e4c489973746c65b2374f3a8d8a562.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "384fb57d-7290-49f4-92a0-1110c86e6e0b",
+          "time": 0.20069009065628052,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.040214598178863525,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.967438817024231,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 6.115436553955078e-05,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "Defected-375-_jpg.rf.e0516e1291b49b0cd17b0a019a5247aa.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "2baa1d42-d663-4f8b-a757-8c775237a4f9",
+          "time": 0.012400645762681961,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.19461888074874878,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.8021644949913025,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 3.635883331298828e-05,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "Defected-390-_jpg.rf.91276952991e1b78662567106c1385b9.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "2b8122a1-779c-498c-93d7-f8f2754af419",
+          "time": 0.0069746412336826324,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.006514012813568115,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9941814541816711,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 2.0265579223632812e-06,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "Defected-827-_jpg.rf.6c5dba55c0beb8f8e9bbf7a2840e7a22.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "9e421d55-cc20-4218-b548-d8947f764805",
+          "time": 0.006712049245834351,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.00028592348098754883,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9997202754020691,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 2.2649765014648438e-06,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "Defected-859-_jpg.rf.4880993eaa0908b60e7c8b85c131cac2.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "b93a493c-9703-46de-ba50-5867ff0cc66f",
+          "time": 0.004401892423629761,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.0007408261299133301,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9991932511329651,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 0.0001188516616821289,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "Defected-957-_jpg.rf.8949733a59d8cf0e5a55dd6bdb24276e.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "176c325a-c4f7-419a-a68b-055933632951",
+          "time": 0.014129497110843658,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.2046647071838379,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.8116850256919861,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 7.426738739013672e-05,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "DEFimage2__20260609111059_jpg.rf.56df723a253e84c737632719b5e61673.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "9f87603b-20f9-4558-981a-c364b054aa3e",
+          "time": 0.011521704494953156,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.05519193410873413,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9515392184257507,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 0.0003173351287841797,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "DEFimage2__20260609111145_jpg.rf.9d653d35f54fd31cce132504373885f5.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "fbce49b1-f605-43a7-8117-bb2746b92364",
+          "time": 0.004917497746646404,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.02345597743988037,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9803357124328613,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 8.702278137207031e-06,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "DEFimage2__20260609111804_jpg.rf.a9d962ada22b765349b6f7c074ddb631.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "7cc25c6d-141d-404d-b28e-1934832b9d52",
+          "time": 0.004689415916800499,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.021765053272247314,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9818949103355408,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 3.2067298889160156e-05,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "DEFimage2__20260609111842_jpg.rf.79aa738cad93009532fe974b8b2f5ab4.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "e7f20958-1d92-4c56-85a6-831043bcd1f3",
+          "time": 0.007069992832839489,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.02103602886199951,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9814797043800354,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 1.4662742614746094e-05,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "DEFimage2__20260609111926_jpg.rf.93ef2f22da1bb5ffa5841d4dd362a731.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "7a0718d1-2b1b-4322-ba7e-f12e4ae70e5a",
+          "time": 0.009042857214808464,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.02407705783843994,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9783176183700562,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 1.0609626770019531e-05,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "DEFimage2__20260609112000_jpg.rf.3901defffdd1d38290b545b2da454076.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "349bec39-7376-4905-a14f-3b1af48cbdbe",
+          "time": 0.012689809314906597,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.002395808696746826,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9976667165756226,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 3.063678741455078e-05,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "DEFimage2__20260609112157_jpg.rf.b7349a28d7682f17fc49fa1e899ffbfb.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "7c4c8bae-480d-4a93-a4dc-77f92708f290",
+          "time": 0.0071442341431975365,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.05687981843948364,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9486380219459534,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 0.00024837255477905273,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "DEFimage2__20260609112359_jpg.rf.1c93d25b9363a333f700a94990b13f83.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "64824d23-cb3a-4540-b401-046e143ea658",
+          "time": 0.635682568885386,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.0063571929931640625,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.994215190410614,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 1.0013580322265625e-05,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "DEFimage2__20260609113000_jpg.rf.9fb87c2aebe4d271e14e9057e48445ae.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "71066ff8-8d8c-49d5-a991-8d1bf5938eab",
+          "time": 0.006198412738740444,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.009757459163665771,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9925404191017151,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 2.2411346435546875e-05,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "DEFimage2__20260609113048_jpg.rf.30afd5a74110007f0e5bd8a476eaa8b5.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "ab190f54-0ea7-4110-a9bc-af24da69dddc",
+          "time": 0.009244448505342007,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.01606529951095581,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9863871335983276,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 1.1801719665527344e-05,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "NDimage2__20260609114928_jpg.rf.91bb3872caf73a864e3b6155078a5cd3.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "9a3de3d3-3f59-48dc-8416-a615ddf3f2e2",
+          "time": 0.010332800447940826,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 9.5367431640625e-07,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9999988079071045,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 0.0,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "NDimage2__20260609115023_jpg.rf.467510a6af835f7487174271116bcc6b.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "1e830c2c-8913-4bf5-9e34-5d1d1c3957a6",
+          "time": 0.004924537613987923,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.0006806850433349609,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9995367527008057,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 2.384185791015625e-07,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "NDimage2__20260609115051_jpg.rf.44461752219d5ff5ad91ed27325e6a00.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "86704b10-0949-4aa9-9d49-d47d5763b053",
+          "time": 0.0036509623751044273,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 3.2186508178710938e-06,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.999990701675415,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 1.9073486328125e-06,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "NDimage2__20260609115401_jpg.rf.a4bf00f0b0e67255882ebb0834e13472.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "479e5efa-4501-4955-a4a1-dc59f2507e65",
+          "time": 0.08998220879584551,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.0020346641540527344,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9984819293022156,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 5.960464477539062e-07,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "NDimage2__20260609115405_jpg.rf.82fa529403592881b86d08a59d1a1a75.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "38ad06dc-e5be-4c37-ba11-98bf5cb203bd",
+          "time": 0.007147514261305332,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.0020105838775634766,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9983136653900146,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 1.1920928955078125e-06,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "NDimage2__20260609115427_jpg.rf.ac7b8f0273cf37113b033c83277e528e.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "55b53c55-8a3f-4c16-a264-9f3aa1259626",
+          "time": 0.003724214620888233,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.0062757134437561035,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9948477745056152,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 2.86102294921875e-06,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "NDimage2__20260609115832_jpg.rf.2eea797aa93cc05a094c83486bc5d9b8.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "a9296045-81dd-412d-9060-7677dbbd8ee1",
+          "time": 0.004318430088460445,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 5.8531761169433594e-05,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9999493360519409,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 0.0,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "NDimage2__20260609120330_jpg.rf.2b86fd1f36339e41efd4f3a27a70be3f.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "89fdf678-cb90-47c2-b901-ec8d9fd398e0",
+          "time": 0.008324108086526394,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 2.9802322387695312e-06,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9999973773956299,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 0.0,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "NDimage2__20260609120500_jpg.rf.e992ce4d887e463aa4437481de64abaf.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "f6dceeef-cf52-47ec-b8f0-bb16683dc220",
+          "time": 0.006215212866663933,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.0004850625991821289,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9995985627174377,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 3.5762786865234375e-07,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "NDimage2__20260609120506_jpg.rf.474848947b966271074918953ffb1cde.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "d3c887be-4de2-45dc-9061-f2608c41737f",
+          "time": 0.004558013752102852,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 7.474422454833984e-05,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9999421834945679,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 0.0,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "NDimage2__20260609121952_jpg.rf.6ce782f5ceed922f797a522d0cb65caf.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "d942eacb-aa4a-484d-b786-9d5a9646b066",
+          "time": 0.0036067627370357513,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.002006053924560547,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9978849291801453,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 5.960464477539062e-07,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "NDimage2__20260609122015_jpg.rf.d3d400c8bac11dd03e42e1303c82e428.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "631eaf90-0020-4e63-ac30-e3c90aaa04d3",
+          "time": 0.003163888119161129,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.0002136826515197754,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.9998131394386292,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 3.5762786865234375e-07,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "NDimage2__20260609122245_jpg.rf.a2a72f1a4c9ce8faaabd176216f1b717.jpg",
+    "true_label_from_folder": "Defected",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "3bac48e3-77c8-49de-bb5a-27e58dc4e653",
+          "time": 0.003263648599386215,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 0.11764359474182129,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 0.8864198923110962,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 2.7418136596679688e-06,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Defected"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  },
+  {
+    "image_name": "waste-2-_jpg.rf.85d5e69ac41d6b69b7165bf7586924a3.jpg",
+    "true_label_from_folder": "Waste",
+    "response": [
+      {
+        "predictions": {
+          "inference_id": "7383c1ea-0af9-4d4c-8820-890c9388344f",
+          "time": 0.003183327615261078,
+          "resolved_model": {
+            "model_id": "sanya-mohanty/fabric-defect-detection-idm-2-1-resnet18-t1",
+            "model_package_id": "ac4e737fe51346806160da98a7cdfc59",
+            "backend": "onnx",
+            "quantization": "fp32"
+          },
+          "image": {
+            "width": 224,
+            "height": 224
+          },
+          "predictions": {
+            "Defect free": {
+              "confidence": 5.245208740234375e-06,
+              "class_id": 0
+            },
+            "Defected": {
+              "confidence": 6.0677528381347656e-05,
+              "class_id": 1
+            },
+            "Waste": {
+              "confidence": 1.0,
+              "class_id": 2
+            }
+          },
+          "predicted_classes": [
+            "Waste"
+          ],
+          "prediction_type": "classification",
+          "parent_id": "image",
+          "root_parent_id": "image"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,73 @@
+{
+  "model": "ResNet18 saved best-validation checkpoint",
+  "device": "cpu",
+  "classes": [
+    "Defect free",
+    "Defected",
+    "Waste"
+  ],
+  "class_to_idx": {
+    "Defect free": 0,
+    "Defected": 1,
+    "Waste": 2
+  },
+  "test_images": 50,
+  "accuracy": 0.9,
+  "macro_precision": 0.8178294573643411,
+  "macro_recall": 0.8439393939393939,
+  "macro_f1": 0.8293277603622431,
+  "forward_latency_ms_per_image_batch_averaged": 50.72731799999019,
+  "confusion_matrix_rows_true_columns_predicted": [
+    [
+      3,
+      2,
+      0
+    ],
+    [
+      3,
+      41,
+      0
+    ],
+    [
+      0,
+      0,
+      1
+    ]
+  ],
+  "classification_report": {
+    "Defect free": {
+      "precision": 0.5,
+      "recall": 0.6,
+      "f1-score": 0.5454545454545454,
+      "support": 5.0
+    },
+    "Defected": {
+      "precision": 0.9534883720930233,
+      "recall": 0.9318181818181818,
+      "f1-score": 0.9425287356321839,
+      "support": 44.0
+    },
+    "Waste": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "accuracy": 0.9,
+    "macro avg": {
+      "precision": 0.8178294573643411,
+      "recall": 0.8439393939393939,
+      "f1-score": 0.8293277603622431,
+      "support": 50.0
+    },
+    "weighted avg": {
+      "precision": 0.9090697674418605,
+      "recall": 0.9,
+      "f1-score": 0.9039707419017763,
+      "support": 50.0
+    }
+  },
+  "predictions_csv": "outputs\\torch_test50_predictions.csv",
+  "latency_note": "PyTorch forward-pass timing on local device; excludes image loading and network time.",
+  "comparison_note": "Use the same filenames as outputs/predictions.csv from Roboflow before making a direct paired comparison."
+}

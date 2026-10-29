@@ -1,0 +1,6 @@
+﻿image_name,true_label,roboflow_predicted_label,roboflow_confidence,roboflow_correct,pytorch_predicted_label,pytorch_confidence,pytorch_correct,models_agree
+Defected-1176-_jpg.rf.3c6bdf51a03453d6a622cfd0c830fbd6.jpg,Defected,Defect free,0.919424,False,Defect free,0.930564,False,True
+Defected-1232-_jpg.rf.7d2dd5550bc653ade44b98acaa071ba6.jpg,Defected,Defect free,0.897619,False,Defect free,0.918366,False,True
+Defected-1263-_jpg.rf.847c01f4da37e25d76ead08c8085aa1d.jpg,Defected,Defect free,0.940244,False,Defect free,0.979123,False,True
+defect-free-15-_jpg.rf.ee9b0d7992ad364bf8fee313ac1499e0.jpg,Defect free,Defected,0.998644,False,Defected,0.993210,False,True
+defect-free-229-_jpg.rf.430bb085c6c0ae75d5e5f493bab0c786.jpg,Defect free,Defected,0.985026,False,Defected,0.999318,False,True
