@@ -1,0 +1,7 @@
+inference-sdk
+torch
+torchvision
+scikit-learn
+numpy
+Pillow
+reportlab

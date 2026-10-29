@@ -1,0 +1,22 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Private credentials
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Local dataset images (do not upload all images to GitHub)
+data/train/
+data/valid/
+data/test/
+data/test50/
+
+# Temporary files
+*.log
